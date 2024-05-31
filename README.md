@@ -1,8 +1,10 @@
 **Sajaf Ahamed's Portfolio Website**
+
 Welcome to my portfolio website repository! This project showcases my personal portfolio created using HTML and CSS.
 
 **About**
-  This portfolio website is designed to highlight my skills, projects, and experience as a web developer. The website is fully responsive, ensuring it looks great on all devices.
+
+This portfolio website is designed to highlight my skills, projects, and experience as a web developer. The website is fully responsive, ensuring it looks great on all devices.
 
 **Features**
   Responsive Design: The website adjusts seamlessly to different screen sizes, providing a user-friendly experience on desktops, tablets, and smartphones.
@@ -13,6 +15,6 @@ Welcome to my portfolio website repository! This project showcases my personal p
   HTML
   CSS
 **How to View**
-You can view the live version of the website here.
+  You can view the live version of the website here.
 
 Alternatively, you can clone the repository and open the index.html file in your browser to view the website locally.
