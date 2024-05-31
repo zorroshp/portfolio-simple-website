@@ -20,7 +20,7 @@ This portfolio website is designed to highlight my skills, projects, and experie
 
 ## How to View
 
-You can view the live version of the website [here](https://your-live-link.com).
+You can view the live version of the website [here](https://zorroshp.github.io/portfolio-simple-website/).
 
 Alternatively, you can clone the repository and open the `index.html` file in your browser to view the website locally.
 
